@@ -2145,7 +2145,7 @@
 					"file": "proj/ci/application/config/defines/event_defines.php",
 					"settings":
 					{
-						"buffer_size": 71855,
+						"buffer_size": 71856,
 						"line_ending": "Unix"
 					}
 				},
@@ -2153,7 +2153,7 @@
 					"file": "proj/ci/application/libraries/Event_crown.php",
 					"settings":
 					{
-						"buffer_size": 42192,
+						"buffer_size": 43771,
 						"line_ending": "Unix"
 					}
 				},
@@ -2172,7 +2172,7 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 115.0,
+				"height": 375.0,
 				"selected_items":
 				[
 					[
@@ -2688,8 +2688,8 @@
 								"selection":
 								[
 									[
-										29797,
-										29797
+										1024,
+										1024
 									]
 								],
 								"settings":
@@ -2832,8 +2832,8 @@
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
-								"translation.x": 0.0,
-								"translation.y": 9846.0,
+								"translation.x": 12.0,
+								"translation.y": 18.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -2918,7 +2918,7 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 71855,
+								"buffer_size": 71856,
 								"regions":
 								{
 								},
@@ -2997,7 +2997,7 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 42192,
+								"buffer_size": 43771,
 								"regions":
 								{
 								},
