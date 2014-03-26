@@ -1,0 +1,4 @@
+{
+  // 日本語コメントが打ちたい 
+  "jsdocs_extend_double_slash": false,
+}
